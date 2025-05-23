@@ -34,7 +34,7 @@ cp .env.example .env
 ```
 php spark serve
 ```
-6. Cek EndPoint menggunakan Postman
+5. Cek EndPoint menggunakan Postman
 - Mahasiswa
 ```
 GET http://localhost:8080/mahasiswa
