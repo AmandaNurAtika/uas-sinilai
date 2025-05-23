@@ -26,15 +26,15 @@ cd nama-file
 ``
 composer install
 ``
-4. Copy File Environment
+3. Copy File Environment
 ```
 cp .env.example .env
 ```
-6. Menjalankan CodeIgniter
+4. Menjalankan CodeIgniter
 ```
 php spark serve
 ```
-8. Cek EndPoint menggunakan Postman
+6. Cek EndPoint menggunakan Postman
 - Mahasiswa
 ```
 GET http://localhost:8080/mahasiswa
